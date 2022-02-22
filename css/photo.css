@@ -1,0 +1,6 @@
+.photo {
+  max-width: 940px;
+  min-height: 300px;
+  background-color: aqua;
+  margin: 0 auto;
+}
